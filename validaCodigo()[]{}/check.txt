@@ -1,0 +1,12 @@
+{[]}
+válido
+([)]
+inválido
+[{()()}[]]
+válido
+{}()[()]]
+inválido
+)[{}]()(
+inválido
+(()[)]
+inválido
